@@ -1,0 +1,12 @@
+# Keep firmware, device dumps, credentials and local tool packages out of this guide.
+*.bin
+*.elf
+*.map
+*.exe
+*.zip
+*.log
+.env
+.env.*
+__pycache__/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,16 @@
+Source: Arrow36's supplied rescue record, 2026-10-02.
+Excerpt of a reported successful recovery; not a new run made while preparing this repository.
+Exact OpenOCD build and flashed-image SHA-256 were not included in the supplied record.
+
+Info : esp_usb_jtag: Device found. Base speed 40000KHz
+Info : JTAG tap: esp32c3.tap0 tap/device found: 0x00005c25
+Info : [esp32c3] Examined RISC-V core, Chip revision v1.1
+** Programming Started **
+Info : Auto-detected flash bank 'esp32c3.flash' size 8192 KB
+Info : PROF: Erased 1425408 bytes in 2177 ms
+Info : PROF: Wrote 1425408 bytes in 11031 ms
+** Programming Finished in 16550 ms **
+** Verify Started **
+Info : PROF: Flash verified in 2926 ms
+** Verify OK **
+** Resetting Target **
